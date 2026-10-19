@@ -6,7 +6,12 @@
     <atom:link href="https://turing-42.github.io/rsw-zh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每天一篇，把 Read Something Wonderful 推荐清单里的文章按原发表时间从最早开始翻译成中文。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 19:20:18 +0800</lastBuildDate>
+    <image>
+      <url>https://turing-42.github.io/rsw-zh/favicon.ico</url>
+      <title>Read Something Wonderful · 中文</title>
+      <link>https://turing-42.github.io/rsw-zh/</link>
+    </image>
+    <lastBuildDate>Mon, 19 Oct 2026 19:21:14 +0800</lastBuildDate>
     <item>
       <title>闲散颂</title>
       <link>https://turing-42.github.io/rsw-zh/posts/2026-10-19-praise-idleness.html</link>
